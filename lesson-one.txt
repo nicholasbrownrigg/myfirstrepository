@@ -1,2 +1,4 @@
 Type something
 save
+
+new line of text
